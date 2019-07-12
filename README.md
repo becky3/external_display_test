@@ -1,0 +1,2 @@
+# external_display_test
+iPhoneを使って外部ディスプレイにViewを表示する実験
